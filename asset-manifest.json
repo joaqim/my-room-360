@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/my-room-360/static/css/main.e6c13ad2.css",
-    "main.js": "/my-room-360/static/js/main.305112da.js",
+    "main.js": "/my-room-360/static/js/main.e67510bb.js",
     "static/js/787.565170d2.chunk.js": "/my-room-360/static/js/787.565170d2.chunk.js",
-    "static/media/my-room-360.png": "/my-room-360/static/media/my-room-360.4838b8bb8c9dead69652.png",
+    "static/media/my-room-360.png": "/my-room-360/static/media/my-room-360.7523858a4cdf87a132ad.png",
     "index.html": "/my-room-360/index.html",
     "main.e6c13ad2.css.map": "/my-room-360/static/css/main.e6c13ad2.css.map",
-    "main.305112da.js.map": "/my-room-360/static/js/main.305112da.js.map",
+    "main.e67510bb.js.map": "/my-room-360/static/js/main.e67510bb.js.map",
     "787.565170d2.chunk.js.map": "/my-room-360/static/js/787.565170d2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e6c13ad2.css",
-    "static/js/main.305112da.js"
+    "static/js/main.e67510bb.js"
   ]
 }
